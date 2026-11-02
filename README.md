@@ -1,8 +1,17 @@
 [Angels addons - locales](https://crowdin.com/project/angelsaddons-newlocales)
+
+## Repository version and installation
+
+This repository contains `angelsaddons-newlocales` source version `0.2.6`. Its [info.json](info.json) declares Factorio `0.17`. These metadata describe this checkout and do not establish compatibility with newer Factorio versions.
+
+For packaged installation, use the [angelsaddons-newlocales Mod Portal downloads](https://mods.factorio.com/mod/angelsaddons-newlocales/downloads) and select a file for your installed Factorio version. Portal releases can differ from this checkout. Put the downloaded mod ZIP in your Factorio user data `mods` directory and install the required dependencies listed in the manifest; entries prefixed with `?` are optional.
+
+This repository has no GitHub Releases.
+
 =====
 #Adds translations for Angel's mods.
 
-[![GitHub issues](https://img.shields.io/github/issues/GimoXagros/Angelsaddons-locale.svg)](https://github.com/GimoXagros/Angelsaddons-locale/issues) [![CrowdIn](https://img.shields.io/badge/localized-Progressing-green.svg)](https://crowdin.com/project/angelsaddons-newlocales) [![GitHub license](https://img.shields.io/github/license/GimoXagros/Angelsaddons-locale.svg)](https://github.com/GimoXagros/Angelsaddons-locale/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/GimoXagros/factorio-mod-angelsaddons-locale.svg)](https://github.com/GimoXagros/factorio-mod-angelsaddons-locale/issues) [![CrowdIn](https://img.shields.io/badge/localized-Progressing-green.svg)](https://crowdin.com/project/angelsaddons-newlocales) [![GitHub license](https://img.shields.io/github/license/GimoXagros/factorio-mod-angelsaddons-locale.svg)](https://github.com/GimoXagros/factorio-mod-angelsaddons-locale/blob/master/LICENSE)
 -----
 I have licensed this mode from a previous author.
 localization mod for Angel's mods for Factorio. Feel free to contribute on [Crowdin](https://crowdin.com/project/angelsaddons-newlocales)!
